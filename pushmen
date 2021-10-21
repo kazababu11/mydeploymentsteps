@@ -1,0 +1,5 @@
+#bin/bash
+echo "are you crickrtplayer"
+read "yes"
+echo "whats your role in cricketteam"
+read "allrounder"
