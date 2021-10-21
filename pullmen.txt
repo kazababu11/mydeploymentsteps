@@ -1,0 +1,4 @@
+#bin/bash
+echo "whats your favourite game"
+read "cricket
+
