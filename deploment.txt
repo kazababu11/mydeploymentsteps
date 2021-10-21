@@ -1,0 +1,5 @@
+#bin/bash
+echo "are you had your lunch"
+read "ya done"
+echo "whats spl"
+read "chicken biryani"
