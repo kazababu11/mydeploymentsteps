@@ -1,0 +1,2 @@
+echo "what is you name "
+read "kaza"
